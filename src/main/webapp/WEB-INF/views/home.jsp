@@ -5,10 +5,14 @@
 <head>
 <meta charset="UTF-8">
 <title>Home & LIST</title>
+<link rel="stylesheet" type="text/css" href="/final_test/styles/style.css">
 </head>
 <body>
 
 	<table class="booktable">
+	<tr>
+	<th colspan="10"> 本一覧</th>
+	</tr>
 		<tr>
 			<th>番号</th>
 			<th>JAN-CD</th>

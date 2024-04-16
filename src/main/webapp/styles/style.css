@@ -1,0 +1,18 @@
+@charset "EUC-KR";
+th, td{
+	border:black 2px solid;
+	text-align:center;	
+	font-weight:bold;
+}
+th{
+	font-size:30px;
+}
+input{
+	width:80%;
+}
+.red{
+	color:red;
+}
+.yellow{
+	background-color:yellow;
+}
